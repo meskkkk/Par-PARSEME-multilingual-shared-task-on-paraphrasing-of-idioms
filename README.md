@@ -1,3 +1,5 @@
+
+
 # Par-PARSEME (SemEval-2027 Task 4): shared code
 
 Course project of a 4-person team. The task: each input sentence contains one
