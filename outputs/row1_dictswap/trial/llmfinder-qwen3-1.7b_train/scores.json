@@ -1,0 +1,23 @@
+{
+  "macro_masked_bertscore": 40.41,
+  "n_langs_divided_by": 2,
+  "share_idiom_not_removed": 0.6,
+  "per_language": {
+    "EN": {
+      "masked_bertscore": 32.11,
+      "n_sentences": 3,
+      "n_idiom_not_removed": 2,
+      "diversity_entropy": 1.099,
+      "diversity_variety": 3,
+      "diversity_balance": 1.0
+    },
+    "FR": {
+      "masked_bertscore": 48.72,
+      "n_sentences": 2,
+      "n_idiom_not_removed": 1,
+      "diversity_entropy": 0.693,
+      "diversity_variety": 2,
+      "diversity_balance": 1.0
+    }
+  }
+}

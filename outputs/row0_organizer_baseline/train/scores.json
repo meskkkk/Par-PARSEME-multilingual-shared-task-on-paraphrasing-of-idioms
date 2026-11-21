@@ -1,0 +1,111 @@
+{
+  "macro_masked_bertscore": 70.69,
+  "n_langs_divided_by": 13,
+  "share_idiom_not_removed": 0.2005,
+  "per_language": {
+    "EL": {
+      "masked_bertscore": 75.12,
+      "n_sentences": 147,
+      "n_idiom_not_removed": 20,
+      "diversity_entropy": 6.144,
+      "diversity_variety": 703,
+      "diversity_balance": 0.937
+    },
+    "FA": {
+      "masked_bertscore": 68.77,
+      "n_sentences": 104,
+      "n_idiom_not_removed": 22,
+      "diversity_entropy": 5.466,
+      "diversity_variety": 318,
+      "diversity_balance": 0.949
+    },
+    "FR": {
+      "masked_bertscore": 70.61,
+      "n_sentences": 95,
+      "n_idiom_not_removed": 21,
+      "diversity_entropy": 5.511,
+      "diversity_variety": 387,
+      "diversity_balance": 0.925
+    },
+    "HE": {
+      "masked_bertscore": 52.54,
+      "n_sentences": 141,
+      "n_idiom_not_removed": 57,
+      "diversity_entropy": 6.377,
+      "diversity_variety": 811,
+      "diversity_balance": 0.952
+    },
+    "JA": {
+      "masked_bertscore": 56.89,
+      "n_sentences": 128,
+      "n_idiom_not_removed": 46,
+      "diversity_entropy": 5.12,
+      "diversity_variety": 188,
+      "diversity_balance": 0.978
+    },
+    "KA": {
+      "masked_bertscore": 63.99,
+      "n_sentences": 150,
+      "n_idiom_not_removed": 43,
+      "diversity_entropy": 6.539,
+      "diversity_variety": 804,
+      "diversity_balance": 0.978
+    },
+    "LV": {
+      "masked_bertscore": 75.25,
+      "n_sentences": 142,
+      "n_idiom_not_removed": 20,
+      "diversity_entropy": 6.43,
+      "diversity_variety": 835,
+      "diversity_balance": 0.956
+    },
+    "PL": {
+      "masked_bertscore": 72.12,
+      "n_sentences": 79,
+      "n_idiom_not_removed": 14,
+      "diversity_entropy": 5.698,
+      "diversity_variety": 342,
+      "diversity_balance": 0.977
+    },
+    "PT": {
+      "masked_bertscore": 80.21,
+      "n_sentences": 148,
+      "n_idiom_not_removed": 16,
+      "diversity_entropy": 5.927,
+      "diversity_variety": 619,
+      "diversity_balance": 0.922
+    },
+    "RO": {
+      "masked_bertscore": 74.74,
+      "n_sentences": 137,
+      "n_idiom_not_removed": 21,
+      "diversity_entropy": 6.143,
+      "diversity_variety": 742,
+      "diversity_balance": 0.929
+    },
+    "SL": {
+      "masked_bertscore": 82.93,
+      "n_sentences": 128,
+      "n_idiom_not_removed": 9,
+      "diversity_entropy": 5.98,
+      "diversity_variety": 536,
+      "diversity_balance": 0.952
+    },
+    "SV": {
+      "masked_bertscore": 66.24,
+      "n_sentences": 66,
+      "n_idiom_not_removed": 18,
+      "diversity_entropy": 5.372,
+      "diversity_variety": 284,
+      "diversity_balance": 0.951
+    },
+    "UK": {
+      "masked_bertscore": 79.6,
+      "n_sentences": 136,
+      "n_idiom_not_removed": 14,
+      "diversity_entropy": 6.316,
+      "diversity_variety": 706,
+      "diversity_balance": 0.963
+    }
+  }
+}

@@ -1,0 +1,594 @@
+[
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005159_SENT077",
+    "prediction": "Não somos tão competentes como pensamos ao detectar o que é ou não é discurso sem sentido."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005054_SENT022",
+    "prediction": "Não inclui voo, inclui café e refeição matinal."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005093_SENT006",
+    "prediction": "Tentativa muito ousada de criar uma versão dos Vingadores russos, o filme é ruim."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005063_SENT012",
+    "prediction": "Se não fosse assim, qual seria o propósito do habeas corpus e das cortes encarregadas de julgá-lo?"
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005027_SENT027",
+    "prediction": "O total de alunos da rede pública era 1,95 milhão; depois, foi 1,99 milhão."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005095_SENT029",
+    "prediction": "O centro pequeno de Granada tem a atmosfera de uma cidade do interior – o lugar tem 120 mil habitantes."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005036_SENT046",
+    "prediction": "Contudo, apontam Oswald e Blanchflower, ocorre queda na felicidade das pessoas na meia‑idade."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005026_SENT008",
+    "prediction": "Mas existe um sistema que ainda ignora as discussões em Brasília, por que isso ocorre?"
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005037_SENT015",
+    "prediction": "O presidente soube da decisão tomada por Fachin em interrupção técnica no país do Cazaquistão, na mesma noite de quarta‑feira (30) no Brasil, quando a conexão de internet da aeronave foi restabelecida."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005054_SENT024",
+    "prediction": "Sem aéreo, inclui desjejum e traslados."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005014_SENT010",
+    "prediction": "O Planalto quer criar normas temporárias com as propostas mencionadas, mas Maia mostrou oposição ao emprego deste instrumento."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005015_SENT002",
+    "prediction": "A Unicamp apresentou na quinta-feira (31) uma proposta de mudança no vestibular que cria quatro maneiras adicionais de acessar a universidade."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005159_SENT052",
+    "prediction": "Também, os dois itens tinham correlação com fatores psicológicos idênticos."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005029_SENT022",
+    "prediction": "Juliana seguiu um caminho diferente."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005046_SENT018",
+    "prediction": "Para isso, a empresa de fusões e aquisições realizou a tarefa: foi auditada pela Grant Thornton no ano passado e organizou a sociedade."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005033_SENT010",
+    "prediction": "Nesta quarta (30), o governo editou uma norma que estende o tempo de participação no Refis de 31 de agosto até 29 de setembro."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005037_SENT029",
+    "prediction": "No dia 31, que é quinta‑feira, o presidente encontrará o presidente da China, Xi Jinping, para debater a relação entre os dois países."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005080_SENT004",
+    "prediction": "A única pessoa que sobreviveu foi o segurança Trevor Rees‑Jones, que ficou vários meses inconsciente."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005060_SENT003",
+    "prediction": "Sem o nervosismo que a estreia trouxe, o presidente interino da Câmara passou a quarta‑feira recebendo elogios dos colegas."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005022_SENT007",
+    "prediction": "Bovinos caminhavam penosamente pelas ruas."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005055_SENT047",
+    "prediction": "O atacante Luis Suárez treinou com os titulares do Uruguai nesta quarta‑feira (30) e deve participar da partida."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005028_SENT019",
+    "prediction": "Empregos na administração cresceram no período e ajudaram a reduzir o desemprego."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005037_SENT016",
+    "prediction": "Segundo um dos presentes, ele achou graça do comentário feito pelo ministro do STF Gilmar Mendes de que o chefe do Ministério Público Federal é um sindicalista elevado ao cargo atual."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005060_SENT002",
+    "prediction": "André Fufuca viveu o dia em que alcançou glória."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005097_SENT008",
+    "prediction": "Eu não consigo lidar com tudo, Rosa desabafa, a jornalista que Maria Ribeiro interpreta."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005040_SENT012",
+    "prediction": "O presidente do Congresso, Eunício Oliveira (PMDB‑CE), esperou 50 minutos pelos deputados, mas encerrou o trabalho."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005018_SENT004",
+    "prediction": "O incidente aconteceu na manhã desta quinta‑feira (31), antes da chegada das crianças."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005072_SENT004",
+    "prediction": "Mas o canteiro de obras, a 13 km da Faixa de Gaza, é realmente uma área militar."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005141_SENT016",
+    "prediction": "Não deveríamos receber convite para discutir apenas se o assunto for eutanásia, aborto ou células-tronco."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005006_SENT009",
+    "prediction": "Messi e Suárez devem ir ao jogo usando uniformes para promover a candidatura feita em conjunto da Argentina e do Uruguai para a Copa do Mundo de 2030."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005060_SENT023",
+    "prediction": "A votação foi adiada novamente – e a próxima semana há um feriado prolongado."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005106_SENT044",
+    "prediction": "Inclui desjejum, passeios (Valle Nevado e vinícola Concha y Toro)."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005105_SENT036",
+    "prediction": "Diego Souza, que não foi chamado para a partida desta quinta, corre fora."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005062_SENT005",
+    "prediction": "A maior roda de grande tamanho da Europa, com 135 metros de altura, é um dos símbolos importantes de Londres e permite observar a maior parte da cidade."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005131_SENT018",
+    "prediction": "E como tinha a cabeça fraca, acabou concordando, até prejudicar um amigo por causa dela."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005135_SENT013",
+    "prediction": "A crise laboral também ocorre quando se considera apenas os cargos de registro formal."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005120_SENT005",
+    "prediction": "A oficina durou uma hora e trinta minutos, mas depois ficamos lá produzindo som, tocando."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005029_SENT008",
+    "prediction": "O magistrado classificou o ato como indecência – cuja pena é multa – e afirmou em seu despacho que “não houve constrangimento, nem violência, nem ameaça”."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005019_SENT012",
+    "prediction": "Não quero precisar olhar o copo que está cheio."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005152_SENT002",
+    "prediction": "Três imigrantes brasileiros ilegais foram presos por lavar dinheiro nos Estados Unidos."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005054_SENT032",
+    "prediction": "Sem aéreo, inclui desjejum e traslados de chegada e saída."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005044_SENT021",
+    "prediction": "Hoje os venezuelanos produzem todos os tipos na própria residência: sabonetes, xampus, desodorante, creme dental e até produtos que não estavam na moda por muito tempo."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005022_SENT002",
+    "prediction": "A inundação das ruas do Texas pela tempestade Harvey causou perturbações às criaturas terrestres, removendo-as do seu habitat natural e levando-as a um mundo cheio de água."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005039_SENT026",
+    "prediction": "Não só a aparência do político suspeito de corrupção, o que está em discussão é a qualidade e a imparcialidade das decisões dos juízes."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005134_SENT007",
+    "prediction": "O centro não é o lugar em que cada um de nós abandona suas ideias e convicções."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005011_SENT016",
+    "prediction": "O desemprego no país alcançou 12,8% no trimestre que terminou em julho, o IBGE divulgou nesta quinta‑feira (30)."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005117_SENT020",
+    "prediction": "Por este ministério, durante a minha permanência aqui, sempre haverá boa intenção."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005044_SENT015",
+    "prediction": "As duas agora têm tentado produzir pasta de dente em casa, obedecendo a uma instrução que encontraram na rede, porém o resultado tem sido insatisfatório."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005023_SENT004",
+    "prediction": "Manoel Almeida da Silva, 46, foi localizado na parte central da cidade e não demonstrou reação ao ser reconhecido e preso."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005101_SENT008",
+    "prediction": "Mas a forma que atores competentes tratam essa previsibilidade pode mudar o resultado."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005044_SENT006",
+    "prediction": "Antes eu fazia tudo de forma correta, medindo a quantidade com colheres pequenas."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005055_SENT006",
+    "prediction": "Como toda comparação com a Argentina que vem da fala de um uruguaio que tenta se afirmar perante o vizinho."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005028_SENT014",
+    "prediction": "Na divulgação que ocorreu antes, sobre o trimestre que terminou em junho, houve crescimento do trabalho informal enquanto houve redução na criação de empregos formais com carteira assinada."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005048_SENT015",
+    "prediction": "De forma habitual, foi pedida ao ministro a sua manifestação."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005027_SENT036",
+    "prediction": "Para o professor Joaquim Soares Neto, da UnB (Universidade de Brasília), o grande número de matrículas no ensino que ocorre à distância é também um resultado da crise."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005036_SENT006",
+    "prediction": "Existe somente um problema: psicólogos afirmam que a crise que surge na metade da vida não ocorre."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005039_SENT024",
+    "prediction": "O Judiciário, por este raciocínio, seria permeável à opinião pública, influenciada pelas acusações dos delatores."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005044_SENT031",
+    "prediction": "César Pinto, 39, trabalha com tecnologia por mais de dez anos, mas agora também quer participar desse mercado."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005024_SENT016",
+    "prediction": "Ele deixa o Brasil na sexta, primeiro."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005031_SENT002",
+    "prediction": "A escritora americana Louise Hay faleceu por motivos naturais na quarta‑feira (30), com 90 anos de idade."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005036_SENT005",
+    "prediction": "Existe, certamente, um declínio na idade média, disse o economista Andrew Oswald, da Universidade de Warwick (Inglaterra), autor conjunto do estudo."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005049_SENT002",
+    "prediction": "Após 43 anos de conflito, as Farc (Forças Armadas Revolucionárias da Colômbia) desembarcam nesta sexta (1º), na Praça Bolívar, no centro de Bogotá."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005029_SENT013",
+    "prediction": "Vi sua mão e virei bicho."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005201_SENT003",
+    "prediction": "As inúmeras setas lançadas pelo procurador geral, Rodrigo Janot, estão destinadas a não alcançar nenhum resultado?"
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005107_SENT027",
+    "prediction": "O pessoal da manobra fiscal e da contabilidade inventiva não aprecia muito essa conversa."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005159_SENT058",
+    "prediction": "Nossas descobertas são divertidas, mas a conversa sem sentido não é um assunto risível."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005027_SENT019",
+    "prediction": "Já a secretária executiva do ministério, Maria Helena Castro, culpa as reduções feitas no Fies em 2015, durante o governo de Dilma Rousseff."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005030_SENT002",
+    "prediction": "Explosões foram observadas no dia da quinta‑feira, 31, na fábrica química Arkema, em Crosby, a 48 quilômetros de Houston, no estado do Texas."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005001_SENT010",
+    "prediction": "A medida tinha caráter de prevenção."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005069_SENT038",
+    "prediction": "Nem seriam quebrados os recordes que medem a velocidade nos procedimentos judiciais contra Lula."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005003_SENT026",
+    "prediction": "Eu esperava que ele retornasse da Cuba quando houvesse anistia para as pessoas exiladas por motivos políticos, o movimento que já existia, mas só foi transformado em lei em 1979."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005053_SENT013",
+    "prediction": "Depois dos protestos intensos, o ministro Sarney Filho (PV) recebeu o convite para auxiliar a extinguir o incêndio."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005003_SENT008",
+    "prediction": "São Paulo, onde trabalhava como bancário, João Leonardo destacou‑se na militância de esquerda radical."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005036_SENT044",
+    "prediction": "Se uma pessoa próxima a você morre e você inicia a refletir sobre a limitação da vida, isso é uma crise na metade da vida?"
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005026_SENT030",
+    "prediction": "Os deputados alegam que delimitar esses distritos é difícil e demorará."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005028_SENT010",
+    "prediction": "Período, 1,439 milhão de pessoas obtiveram empregos."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005059_SENT011",
+    "prediction": "A planilha é parte dos papéis que confirmam a delação que recebeu prêmio, conforme investigadores."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005025_SENT002",
+    "prediction": "A banda U2 informou na quarta‑feira, dia 30, que o álbum *Songs of Experience* está pronto para ser lançado depois de alguns ajustes."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005115_SENT022",
+    "prediction": "Já aprovada para a competição mundial, a equipe do Brasil é líder nas fases de qualificação da América do Sul com 33 pontos."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005009_SENT005",
+    "prediction": "Cada pessoa assume novamente suas posições de origem no dia 6, que é quarta‑feira."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005014_SENT016",
+    "prediction": "Formalmente, o governo deveria apresentar um Orçamento 2018 com estimativa de déficit de R$ 129 bilhões nas contas – sem margem fiscal, anunciada pela equipe econômica."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005022_SENT012",
+    "prediction": "Mike Hixenbaugh, repórter da área médica do Houston Chronicle, filmou um vídeo que mostra um grupo de formigas enquanto realizava uma reportagem acerca da inundação em Cypress Creek, na segunda‑feira."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005049_SENT016",
+    "prediction": "É evidente que a vitória da democracia, representada pelo ato desta sexta‑feira, não representa o término da estrada."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005014_SENT009",
+    "prediction": "Integrantes do grupo de trabalho da área econômica também queriam que o presidente que está exercendo o cargo avaliasse outras propostas de modificação das políticas fiscais, como adiar o aumento salarial dos funcionários do setor público e aumentar o pagamento para a previdência desses trabalhadores."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005008_SENT013",
+    "prediction": "A UEFA observa o PSG desde que comprou Neymar, por um valor de 222 milhões de euros."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005054_SENT020",
+    "prediction": "Inclui aéreo, sem desjejum."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005032_SENT023",
+    "prediction": "Segundo Hua Chunying, representante do Ministério chinês, o problema da Coreia do Norte é sério e não deve ser tratado como videogame."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005009_SENT003",
+    "prediction": "De acordo com o vice‑presidente da Câmara, Fufuca dirige a Casa porque o presidente Rodrigo Maia (DEM‑RJ) tomou a Presidência da República."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005037_SENT024",
+    "prediction": "A expectativa é que a licitação ocorra no primeiro período de seis meses do ano seguinte."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005040_SENT006",
+    "prediction": "Embora o texto‑base tenha sido aprovado nas primeiras horas da madrugada, deputados e senadores não terminaram a votação dos cinco pontos de alteração no texto apresentados pela oposição."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005054_SENT030",
+    "prediction": "Inclui passagem aérea (com taxas e impostos) e refeição matinal."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005036_SENT039",
+    "prediction": "Mas várias pesquisas psicológicas recentes não encontraram ansiedade particular da meia idade e até a refutaram totalmente."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005028_SENT024",
+    "prediction": "No trimestre que terminou em julho de 2016, a taxa de desemprego era de 11,6%, percentual que é 1,2 ponto a menos que o verificado em período que é equivalente a este ano."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005050_SENT041",
+    "prediction": "Ele vivia com a companheira 14 anos, após ter o primeiro filho."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005002_SENT008",
+    "prediction": "O presidente quer reduzir o desemprego persistente, que hoje está em 10%."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005059_SENT018",
+    "prediction": "Quando o depoimento foi tornado público, a defesa do ex‑ministro negou que ele recebeu dinheiro de Funaro."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005026_SENT037",
+    "prediction": "O estudo que foi atualizado será enviado ainda esta semana às caixas onde chegam as mensagens de todos os membros da Câmara dos Deputados."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005049_SENT006",
+    "prediction": "Para um grupo que nasceu, em 1964, como milícia do Partido Comunista, adotar o liberalismo como marco é uma revolução histórica."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005117_SENT047",
+    "prediction": "A ameaça mortal que recebemos nesta área onde houve invasão hoje, disse Popyguá."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005032_SENT017",
+    "prediction": "Nesta quarta-feira (30), Trump afirmou que conversar não resolve a crise."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005120_SENT004",
+    "prediction": "Havia aproximadamente 15 pessoas, principalmente franceses que já tinham contato com a cultura brasileira e brasileiros."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005002_SENT002",
+    "prediction": "O presidente, que é francês, Emmanuel Macron, apresentou no dia 31 os detalhes da sua reforma trabalhista."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005228_SENT034",
+    "prediction": "Tite, como indivíduo, gosta de elogios, mas não de exageros."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005041_SENT002",
+    "prediction": "Valores de bilhões cobrados em ações penais pelo grupo de trabalho da Lava Jato em Curitiba a partir do começo do escândalo, em 2014, caíram nas decisões do juiz Sergio Moro."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005040_SENT003",
+    "prediction": "Por causa disso, no plano de orçamento para 2018, que vai ser mandado ao Congresso na quinta‑feira que vem, devem aparecer valores que não foram atualizados para o déficit das contas do governo."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005071_SENT025",
+    "prediction": "Ela é importante para mim pessoalmente, para recuperar um problema de honra e princípios."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005088_SENT020",
+    "prediction": "A vista do bairro Las Condes é quase um quadro: limpa e comovente."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005011_SENT008",
+    "prediction": "Como a ideia foi bem aceita, ele aumentou a proposta para adicionar também anúncios digitais, publicados no Facebook ou em outras plataformas sociais."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005038_SENT010",
+    "prediction": "No dia 30, que foi uma quarta-feira, o juiz federal Rolando Spanholo, que atua na 21ª Vara, localizada no Distrito Federal, suspendeu o decreto."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005021_SENT002",
+    "prediction": "O Prêmio de Água e Saneamento, realizado pelo BID (Banco Interamericano de Desenvolvimento) e pela Fundação Femsa, aceita inscrições não depois de terça‑feira (12)."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005072_SENT014",
+    "prediction": "A barreira de concreto terá tecnologia avançada para detectar atividade subterrânea."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005156_SENT008",
+    "prediction": "A secura do ar alertou São Paulo na quarta."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005118_SENT017",
+    "prediction": "Alguém fala sobre a vida como se fosse um jogo de xadrez e outra série de obviedades."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005159_SENT081",
+    "prediction": "A conversa sem sentido é muito mais difícil de detectar quando queremos concordar com ela."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005001_SENT002",
+    "prediction": "Um aviso que trata de segurança emitido pelas polícias militar e federal em Santa Catarina resultou na dispensa dos funcionários que trabalham na Justiça Federal, para que não compareçam ao trabalho na quinta‑feira que ocorre no dia 31."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005038_SENT003",
+    "prediction": "Na quarta‑feira (30), o ministro Gilmar Mendes solicitou que a AGU (Advocacia‑Geral da União) prestasse esclarecimentos sobre a decisão, depois que o PSOL apresentou pedido de suspensão."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005008_SENT017",
+    "prediction": "O ponta, que atuava à esquerda, foi um dos principais da campanha que deu ao Monaco o título do Campeonato Francês, com 18 gols marcados."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005003_SENT013",
+    "prediction": "Encontramos ossos da perna na lateral, em que se encontravam os restos do corpo de outro cadáver."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005042_SENT031",
+    "prediction": "Mas os colombianos fizeram um avanço também."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005040_SENT008",
+    "prediction": "As votações devem ser retomadas na terça-feira (5)."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005061_SENT013",
+    "prediction": "A produção de algodão não deve ficar restrita aos grandes produtores."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005013_SENT010",
+    "prediction": "Ela estava muito avançada para o seu tempo, na Inglaterra dos anos 1930."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005048_SENT039",
+    "prediction": "Moro não aborda o assunto verdadeiro da reportagem."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005067_SENT010",
+    "prediction": "A Prefeitura de SP finalizou o calendário para o processo de compra das empresas que realizam a varrição na cidade."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005002_SENT014",
+    "prediction": "Outra sugestão é reduzir os pagamentos nas dispensas sem motivo legal, fazendo avançar o processo nos juízos."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005069_SENT014",
+    "prediction": "É positivo que a população está tomando posição contra uma das mais grandes atrocidades realizadas sobre o meio ambiente por este governo que é corrupto e medíocre!"
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005115_SENT015",
+    "prediction": "Não podemos renunciar a um atleta como o Coutinho, completou."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005050_SENT031",
+    "prediction": "Por volta das 13 horas na quinta‑feira que ocorre hoje, a pessoa que dirigia o carro ainda não havia sido identificada."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005010_SENT022",
+    "prediction": "Madrugada desta quinta, não houve quórum, o Congresso Nacional aprovou o texto principal, mas não terminou o voto do projeto que altera os objetivos fiscais de 2017 e 2018 para um déficit de R$ 159 bilhões."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005070_SENT023",
+    "prediction": "O senador Antonio Anastasia (PSDB-MG) afirma que o leilão seria um erro grave do governo."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005044_SENT025",
+    "prediction": "Um pacote de 47 fraldas de fabricação chinesa, como exemplo, custa 200 mil bolívares, próximo ao salário mínimo."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005002_SENT025",
+    "prediction": "O código tem aproximadamente três mil páginas e trata de áreas, incluindo salários, horas de trabalho e padrões para a ventilação de escritórios."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005037_SENT018",
+    "prediction": "Para a viagem, o parlamentar levou um leitão, feijão, tropeiro, linguiça e carne, sol."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005045_SENT028",
+    "prediction": "PSOL afirmou que a não suspensão imediata dos resultados do decreto que elimina a Renca poderia causar danos que não podem ser revertidos ao meio ambiente."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005159_SENT025",
+    "prediction": "Chopra pode ter usado um texto vago para aparentar profundidade."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005013_SENT006",
+    "prediction": "Livro de grande sucesso nos Estados Unidos e Reino Unido, o thriller de espionagem atraiu Theron antes de ser publicado em 2012."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005112_SENT022",
+    "prediction": "O roteiro melhora a história original do gibi, que não é boa."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005004_SENT013",
+    "prediction": "Na segunda-feira (28), Michael Cohen, advogado do presidente e vice‑presidente das Organizações Trump, com funções executivas, confirmou à Comissão de Inteligência da Câmara que houve negociações para a construção de uma Trump Tower em Moscou durante a campanha presidencial."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005229_SENT027",
+    "prediction": "Estamos em crescimento, mas até que a Copa chegue, há muitas coisas que vão acontecer."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005001_SENT011",
+    "prediction": "O governador Raimundo Colombo (PSD) declarou pela manhã que existem facções criminosas de outros Estados atuando em Santa Catarina, mas não ligou as mortes recentes nem as possíveis ameaças a nenhum grupo específico."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005033_SENT007",
+    "prediction": "Essa proposta, com condições que são mais vantajosas para os contribuintes, faz parte de um esforço que é o último do Planalto para tentar dar aprovação à medida provisória que criou o programa que trata de refinanciamento."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005011_SENT017",
+    "prediction": "As vagas informais de trabalho causam a queda."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005060_SENT015",
+    "prediction": "Ele disse que o presidente que está temporariamente no cargo da Câmara é vítima de informações desfavoráveis, propagadas por moralistas sempre prontos."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005060_SENT020",
+    "prediction": "Para quem vê a TV Câmara como “A Praça é Nossa”, foi uma sessão muito boa."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005088_SENT033",
+    "prediction": "Inclui desjejum, passeios (Valle Nevado e vinícola Concha y Toro)."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005211_SENT010",
+    "prediction": "Os autores não escondem a perspectiva na qual o livro se baseia."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005159_SENT023",
+    "prediction": "As palavras que ele escolheu são excessivamente complicadas, e os significados que ele pretende não ficam claros."
+  },
+  {
+    "source_sent_id": "https://drive.google.com/file/d/1BjUGUneIt_YIxFjGkqSKu4FtHc7dZveQ/view Porttinari-check_(manually_revised).conllu FOLHA_DOC005014_SENT015",
+    "prediction": "O texto base foi votado de madrugada nesta quinta, mas os destaques só serão apreciados na próxima semana."
+  }
+]

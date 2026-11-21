@@ -1,0 +1,21 @@
+{
+ "overall": {
+  "exact": 0.0,
+  "overlap": 0.0,
+  "missing": 1.0
+ },
+ "per_language": {
+  "EN": {
+   "n": 3,
+   "exact": 0,
+   "overlap": 0,
+   "missing": 3
+  },
+  "FR": {
+   "n": 2,
+   "exact": 0,
+   "overlap": 0,
+   "missing": 2
+  }
+ }
+}

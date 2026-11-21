@@ -1,0 +1,7 @@
+# For trying the code without a big GPU (laptop / Kaggle CPU): a small LLM via
+# plain transformers. Results are much worse than Qwen3-8B; use only to test.
+base: shared.yaml
+llm:
+  backend: transformers
+  model: Qwen/Qwen3-1.7B
+  batch_size: 16

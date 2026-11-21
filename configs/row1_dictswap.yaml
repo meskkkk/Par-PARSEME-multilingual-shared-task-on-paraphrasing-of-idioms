@@ -1,0 +1,17 @@
+# Results-table row 1: dictionary-swap simple baseline (no LLM rewriting).
+base: shared.yaml
+row: row1_dictswap
+
+dictswap:
+  # Where the idiom location comes from on dev:
+  #   gold    use the [[ ]] marks of the training data (upper bound)
+  #   lexicon find it with the training-idiom lexicon (no GPU)
+  #   file    read idiom finder output from outputs/idioms/<split>.json
+  idiom_source: gold
+  # Where the replacement text comes from, tried in this order.
+  #   meanings  data/meanings/<LANG>.json (made once by scripts/make_meanings.py)
+  #   train     what replaced the same idiom in the training folds' gold rewrites
+  meaning_sources: [meanings, train]
+  # If no meaning is found: "delete" drops the idiom words, "keep" leaves the
+  # sentence unchanged (which scores 0).
+  fallback: delete

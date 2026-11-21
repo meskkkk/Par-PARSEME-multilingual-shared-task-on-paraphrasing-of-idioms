@@ -1,0 +1,3 @@
+# Extra packages for the LLM steps (idiom finder, meanings, models 1-3) on a GPU.
+# On Kaggle install AFTER requirements.txt; vLLM brings its own matching torch.
+vllm==0.11.0

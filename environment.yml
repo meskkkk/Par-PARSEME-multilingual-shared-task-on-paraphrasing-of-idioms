@@ -1,0 +1,9 @@
+# conda env create -f environment.yml && conda activate par-parseme
+name: par-parseme
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - torch==2.15.0
+      - -r requirements.txt

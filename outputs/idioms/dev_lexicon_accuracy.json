@@ -1,0 +1,87 @@
+{
+ "overall": {
+  "exact": 0.074,
+  "overlap": 0.079,
+  "missing": 0.914
+ },
+ "per_language": {
+  "EL": {
+   "n": 147,
+   "exact": 2,
+   "overlap": 2,
+   "missing": 145
+  },
+  "FA": {
+   "n": 104,
+   "exact": 11,
+   "overlap": 11,
+   "missing": 92
+  },
+  "FR": {
+   "n": 95,
+   "exact": 2,
+   "overlap": 2,
+   "missing": 93
+  },
+  "HE": {
+   "n": 141,
+   "exact": 2,
+   "overlap": 2,
+   "missing": 139
+  },
+  "JA": {
+   "n": 128,
+   "exact": 0,
+   "overlap": 0,
+   "missing": 128
+  },
+  "KA": {
+   "n": 150,
+   "exact": 51,
+   "overlap": 54,
+   "missing": 95
+  },
+  "LV": {
+   "n": 142,
+   "exact": 4,
+   "overlap": 4,
+   "missing": 137
+  },
+  "PL": {
+   "n": 79,
+   "exact": 5,
+   "overlap": 5,
+   "missing": 74
+  },
+  "PT": {
+   "n": 148,
+   "exact": 2,
+   "overlap": 3,
+   "missing": 140
+  },
+  "RO": {
+   "n": 137,
+   "exact": 21,
+   "overlap": 24,
+   "missing": 112
+  },
+  "SL": {
+   "n": 128,
+   "exact": 0,
+   "overlap": 0,
+   "missing": 128
+  },
+  "SV": {
+   "n": 66,
+   "exact": 7,
+   "overlap": 7,
+   "missing": 59
+  },
+  "UK": {
+   "n": 136,
+   "exact": 11,
+   "overlap": 13,
+   "missing": 122
+  }
+ }
+}

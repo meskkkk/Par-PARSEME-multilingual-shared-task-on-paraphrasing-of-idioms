@@ -1,0 +1,17 @@
+# Exact versions used to produce the numbers in README.md (Python 3.11).
+# torch is NOT listed: Kaggle already has a CUDA build. Elsewhere install it first
+# from https://pytorch.org (CPU is fine for everything except the LLM steps).
+numpy==2.4.6
+pandas==3.1.1
+pyyaml==6.0.4
+regex==2026.11.19
+scikit-learn==1.9.1
+jsonschema==4.26.0
+json-spec==0.12.0
+transformers==4.57.6
+sentence-transformers==5.7.0
+bert-score==0.3.13
+spacy==3.8.18
+ja_core_news_sm @ https://github.com/explosion/spacy-models/releases/download/ja_core_news_sm-3.8.0/ja_core_news_sm-3.8.0-py3-none-any.whl
+# Diversity measures used by the official scorer (by Louis Estève)
+diversutils @ git+https://github.com/estevelouis/WG4@fe5936aaacd0213f8426ddfbf2eefc7bb25a4a28

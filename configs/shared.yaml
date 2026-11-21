@@ -1,0 +1,33 @@
+# Settings shared by every model. A row config says `base: shared.yaml`
+# and only overrides what it changes.
+
+paths:
+  data_dir: data/raw/par-parseme        # organisers' data (scripts/download_data.sh)
+  tools_dir: data/raw/par-parseme/tools # official evaluate.py and JSON schemas
+  folds: data/folds.json                # fixed 5-fold dev split, never change it
+  meanings_dir: data/meanings           # one idiom meaning per sentence (optional)
+  outputs_dir: outputs
+
+seeds: [13, 42, 2027]
+n_folds: 5
+
+# Number of languages the macro-average divides by. On dev we have 13.
+# Codabench divides by the number of test languages (a missing one counts 0).
+n_langs_dev: 13
+
+rag:
+  embedding_model: intfloat/multilingual-e5-base
+  batch_size: 64
+  index_dir: outputs/rag_index
+
+llm:
+  backend: vllm            # vllm (Kaggle GPU) | transformers (any GPU/CPU, slower)
+  model: Qwen/Qwen3-8B-AWQ # 4-bit Qwen3-8B; fits on 2x T4 with vLLM
+  max_new_tokens: 128
+  temperature: 0.0         # greedy for the idiom finder
+  dtype: float16           # T4 has no bfloat16
+
+idiom_finder:
+  method: llm              # llm | lexicon
+  n_examples: 4            # solved examples shown in the prompt
+  max_tries: 3
