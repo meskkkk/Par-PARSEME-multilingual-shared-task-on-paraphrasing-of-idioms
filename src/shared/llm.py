@@ -46,7 +46,7 @@ class LLM:
             self._tokenizer.padding_side = "left"  # needed for batched generation
             torch_dtype = getattr(torch, dtype) if torch.cuda.is_available() else torch.float32
             self._model = AutoModelForCausalLM.from_pretrained(
-                model, dtype=torch_dtype, device_map="auto" if torch.cuda.is_available() else None)
+                model, torch_dtype=torch_dtype, device_map="auto" if torch.cuda.is_available() else None)
             self._model.eval()
             self._batch_size = backend_kwargs.pop("batch_size", 8)
         else:

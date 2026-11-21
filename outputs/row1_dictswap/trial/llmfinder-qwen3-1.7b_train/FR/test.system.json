@@ -1,0 +1,10 @@
+[
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_French-Sequoia/fr_sequoia-ud-train.conllu annodis.er_00049",
+    "prediction": "Les élèves de la classe de CE1 de l'école Notre-Dame ont pris part aux."
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_French-Sequoia/fr_sequoia-ud-train.conllu annodis.er_00080",
+    "prediction": "Il laisse à sa famille et amis, le souvenir d'un homme dévoué, généreux, jovial, toujours prêt à."
+  }
+]
