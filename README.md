@@ -25,6 +25,9 @@ compared under the same conditions:
 ## Quick start
 
 On Kaggle, open `notebooks/kaggle_shared_setup.ipynb` (turn Internet on; GPU T4 x2 for the LLM cells).
+It installs `requirements-kaggle.txt`, which only adds missing packages and keeps
+Kaggle's own numpy, pandas, torch, transformers, huggingface-hub, protobuf and pillow.
+`requirements.txt` holds the exact versions of a fresh local environment.
 On any Linux machine with Python 3.11:
 
 ```bash
