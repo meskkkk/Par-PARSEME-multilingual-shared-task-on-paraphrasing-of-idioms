@@ -1,0 +1,66 @@
+[
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1440",
+  "prediction": "Naprawdę liczy Pan na to, że ktoś Panu uwierzy dosłownie, przecież efekt będzie dokładnie odwrotny, bo każdy sobie pomyśli - tam musi być coś ciekawego, ale to może tak jak z UPR-owską agitacją, która zamiast przyciągać skutecznie odstrasza."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-dev.conllu dev-s1620",
+  "prediction": "Jednak już wkrótce Nizioł i Wapiński ze zdumieniem odkryli, że Łapiński nie wykonuje wcześniej danego obietnicy."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s2031",
+  "prediction": "Twoje słowa dotknęły podatnego gruntu."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5067",
+  "prediction": "W uliczce nie ma żywego ducha."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5242",
+  "prediction": "- Czy czarny scenariusz jest rozważany w zachodnich kołach finansowych?"
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5747",
+  "prediction": "Za nimi uplasowało się Ministerstwo Finansów, które jako jedyne w całej stawce prognozowało wzrost PKB na poziomie niższym niż to faktycznie miało miejsce."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s5984",
+  "prediction": "Wcześniej jednak na tapetę wzięły przedstawiony przez Zarząd Gminy projekt budżetu."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s6859",
+  "prediction": "Gdy po wypiciu trunku siedlczanin chciał opuścić towarzystwo, został prawdopodobnie zaatakowany w głowę i stracił przytomność."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s7433",
+  "prediction": "Polacy kochają \"spokój bez konfliktów\", nieprawdaż?"
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s9006",
+  "prediction": "Dla Związku Radzieckiego było to również mniejsze zło."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s9457",
+  "prediction": "W niedzielę 7 czerwca o godz. 17 Odra podejmuje Inę, a Mieszko o tej samej godzinie u siebie gra z Dąbrovią."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s9465",
+  "prediction": "We znaki dały się też niewyczyszczone przed zimą przewody kominowe."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s10860",
+  "prediction": "Zdarzenie miało miejsce 20 kwietnia tego roku."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s11051",
+  "prediction": "Dzięki jego zaangażowaniu w naszym mieście nadal funkcjonuje sekcja piłki nożnej na poziomie sportowym, który jest odpowiedni, promująca Jarosław na terenie Polski południowo - wschodniej."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s11688",
+  "prediction": "Przed tygodniem rzesze ostrzeszowian odprowadziły go na miejsce, gdzie będzie miał wieczny spoczynek."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Polish-PDB/pl_pdb-ud-train.conllu train-s11839",
+  "prediction": "Ale lepsi byli tylko w gadać przed kamerą."
+ }
+]

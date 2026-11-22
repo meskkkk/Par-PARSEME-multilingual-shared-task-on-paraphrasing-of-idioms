@@ -1,0 +1,118 @@
+[
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-p134-p19s1",
+  "prediction": "Ņemot vērā minēto, autors uzskata, ka Administratīvā procesa likuma 195.panta pirmajai daļai jābūt izteiktai šādā redakcijā:"
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p154-p18s2",
+  "prediction": "Protams, priekšroku mēs dodam izglītotiem cilvēkiem."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2790-p6s5",
+  "prediction": "Iemesli var būt visdažādākie – sākotnējā piegāde bija iespējama, jo tuvojās zāļu derīguma termiņa beigas un šīm zālēm kādā valstī bija samazināta cena, bet mirkli vēlāk šī iespēja, protams, zuda; tika atrasts kāds novatorisks veids, kā nopirkt zāles no k"
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p2422-p23s1",
+  "prediction": "Arī Izraēlas arābi sarīkoja virkni protestu, bet arābu valstīs ielās izgāja simtiem protestētāju, dedzinot Izraēlas un ASV karogus."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p9084-p5s3",
+  "prediction": "Neizklausās daudz, taču, ņemot vērā mūsu slinkumu, tas tomēr ir vairāk kā neko."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d221-p3s1",
+  "prediction": "Drīz ciems nīkst un attapās gandrīz pasaules malā."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-p2899-p3s1",
+  "prediction": "Ņemot vērā to, ka Latvijā uzņēmēju starpā valda liela konkurence, ir pavērtas iespējas negodīgā veidā izrēķināties ar saviem konkurentiem, iesniedzot prasību bez pamata tiesā un tādējādi iznīcinot savus konkurentus."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p6610-p1s3",
+  "prediction": "Amala gan neseko aktiera vēlmēm un vienmēr uzņemas skandalozas, «skaļas» lietas, kuras var novest pie nāves iznākuma."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p7602-p6s1",
+  "prediction": "Dežurants uzreiz saprata, par ko ir runa, un patiesi sapriecājās."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-d197-p156s1",
+  "prediction": "Turklāt Sanī slikti turējās kājas, un man bija jāuzmana, lai viņa nepaslīd uz dušas kabīnes flīzēm."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p12782-p9s2",
+  "prediction": "It sevišķi, ja uzskata, ka Latvijas politiskās elites attieksme pret Austrumlatviju ir svarīga."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p3084-p9s4",
+  "prediction": "Abas ir gluži netipiskas lomas un pretstati Ģirta tēlotajam romantiķim un mieramikam Leonam no seriāla “Neprāta cena”, taču jāatzīst, ka dziļāko dziņu apmierinājums būs gan garantēts, jo trakajiem jau pieder pasaule!"
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p12821-p8s1",
+  "prediction": "Iepriekšējā gada beigās Latvijas Finanšu ministrija atklāja ar iniciatīvu papildināt Pievienotās vērtības nodokļa likumu — aplikt ar PVN dzīvojamo māju pārvaldīšanas pakalpojumu sniedzējus, dzīvokļu īpašnieku kooperatīvās sabiedrības un mājas pārvaldniekus."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-z29-p4s1",
+  "prediction": "Tīkla plānošanas problēmas vispārējā nostādne ilgtermiņa un vidēja termiņa sadales tīklu plānošanas mērķis ir atrast tādu tīkla attīstības stratēģiju, lai pieprasījums pēc slodzes pieauguma un izmaiņām tiktu apmierināts visā plānošanas perioda laikā ekonomiski un droši, ņem"
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p9007-p10s1",
+  "prediction": "Kopš Everestā 1953.gadā pirmo reizi uzkāpa Edmunds Hilarijs un Tencings Norgejs, pasaules augstākā kalna nogāzēs dzīvību zaudējuši vairāk nekā 300 cilvēku."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p8061-p11s3",
+  "prediction": "Ministrs apturējis automašīnu, izkāpis ārā un runājis ar cilvēkiem."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p381-p3s2",
+  "prediction": "Saņemties uz solokoncertu nav tik vienkārši, ņemot vērā dzīves un darba ritmu."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-d60-p105s6",
+  "prediction": "Vai, kā saka mana kaimiņiene, večiem jāpārmet smadzenes, tad viņi tev apkārt lēkās."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d198-p57s1",
+  "prediction": "Es tieku galā ar saviem sapņiem un savu seju, pirms pamostas vīrs un bērni, no vannasistabas es iznāku gaiša, pat ja gaišums nav gluži īsts."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-d197-p75s2",
+  "prediction": "Meitene izstiepa plecus."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p5699-p3s1",
+  "prediction": "Mākslinieku ieraudzīja līgavas tēvs un palūdza viņu apmeklēt kāzas, fotogrāfēties ar jauno pāri un vēlēt jaunlaulātajiem laimi."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p10802-p6s2",
+  "prediction": "Tomēr daudzi vecāki atzīst, ka nevajag steidzīties gādāt par ģimenes pieaugumu izmaksu dēļ."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p147-p3s1",
+  "prediction": "Satiksmes ministrijas (SM) iesniegtais Ceļu satiksmes drošības programmas (2007- 2013) projekts, kurš otrdien tika skatīts Ministru kabinetā, izstrādāts, ņemot vērā Eiropas Savienības (ES) transporta Baltajā grāmatā izvirzīto mērķi - līdz 2010.gadam divkārt samazināt"
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-c61-p64s7",
+  "prediction": "Nesaudzīgas mežu izciršanas rezultātā Baltijas jūras un Rīgas līča piekrastē 18. un 19. gs. veidojās ceļojošās kāpas, smiltis vēja iedarbības dēļ pārvietojās no krasta uz zemes iekšieni."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-test.conllu a-p6536-p3s1",
+  "prediction": "Niks atpūties bārā un vēlāk devies ārā, lai kautītos ar citu bāra apmeklētāju, kurš nav licis dziedātājam mieru."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-d1270-p14s1",
+  "prediction": "– Es, – Jurelis sūrojās, – nedēdēšu taču viens kā pirksts tajā teātrī!"
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-dev.conllu a-p134-p25s1",
+  "prediction": "Autors nesaskata šķērsli piemērot administratīvā akta darbības apturēšanas institūtu arī citās tiesu instancēs, it īpaši ņemot vērā to, ka pagaidu noregulējuma institūts un administratīvā akta darbības apturēšanas institūts ir savstarpēji atdalāmi."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p1927-p6s6",
+  "prediction": "Atzinīgi vērtējot Zemgales kolēģes mērķtiecību, G. Tomsone ir pārliecināta, ka nevajag pārsteigties, izvēloties šinšillu audzēšanu, jo viņa labi zina arī šīs jomas ēnas puses."
+ },
+ {
+  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Latvian-LVTB/lv_lvtb-ud-train.conllu a-p1966-p8s1",
+  "prediction": "Ņemot vērā Latvijai piešķirto pārejas laikposmu un palielinājuma grafiku ES minimālās degvielas akcīzes likmes sasniegšanai, Latvijai ar 2008.gada 1.janvāri ir jāpalielina akcīzes nodokļa pamatlikmes bezsvina benzīnam – no 209 līdz 226 latiem par 1000 litriem jeb par"
+ }
+]

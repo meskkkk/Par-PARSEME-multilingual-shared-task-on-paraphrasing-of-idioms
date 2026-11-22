@@ -1,0 +1,91 @@
+{
+ "settings": {
+  "llm": "Qwen/Qwen3-8B-AWQ",
+  "n_shots": 5,
+  "seed": 42,
+  "n_dev": 323,
+  "finder": "/kaggle/input/datasets/adhamgom3a/nlp-final-project-data/shared_outputs/outputs/idioms/dev_llm.json"
+ },
+ "results": [
+  {
+   "Run": "A0-G",
+   "Name": "Zero-shot",
+   "Marks": "gold",
+   "Score": 31.2,
+   "vs creative": 30.31,
+   "Raw BERTScore": 92.94,
+   "Idiom removed %": 33.13,
+   "Words": 15.7
+  },
+  {
+   "Run": "A1-G",
+   "Name": "Random-5",
+   "Marks": "gold",
+   "Score": 59.79,
+   "vs creative": 58.18,
+   "Raw BERTScore": 93.21,
+   "Idiom removed %": 63.47,
+   "Words": 15.69
+  },
+  {
+   "Run": "A2-G",
+   "Name": "SentDense-5",
+   "Marks": "gold",
+   "Score": 64.77,
+   "vs creative": 63.08,
+   "Raw BERTScore": 93.34,
+   "Idiom removed %": 69.35,
+   "Words": 15.74
+  },
+  {
+   "Run": "A3-G",
+   "Name": "IdiomHybrid-5",
+   "Marks": "gold",
+   "Score": 65.77,
+   "vs creative": 63.96,
+   "Raw BERTScore": 93.49,
+   "Idiom removed %": 69.97,
+   "Words": 15.8
+  },
+  {
+   "Run": "A0-F",
+   "Name": "Zero-shot",
+   "Marks": "finder",
+   "Score": 17.82,
+   "vs creative": 17.34,
+   "Raw BERTScore": 92.41,
+   "Idiom removed %": 20.12,
+   "Words": 15.77
+  },
+  {
+   "Run": "A1-F",
+   "Name": "Random-5",
+   "Marks": "finder",
+   "Score": 30.03,
+   "vs creative": 29.18,
+   "Raw BERTScore": 92.24,
+   "Idiom removed %": 33.13,
+   "Words": 15.82
+  },
+  {
+   "Run": "A2-F",
+   "Name": "SentDense-5",
+   "Marks": "finder",
+   "Score": 31.91,
+   "vs creative": 30.97,
+   "Raw BERTScore": 92.27,
+   "Idiom removed %": 34.98,
+   "Words": 15.86
+  },
+  {
+   "Run": "A3-F",
+   "Name": "IdiomHybrid-5",
+   "Marks": "finder",
+   "Score": 33.09,
+   "vs creative": 32.12,
+   "Raw BERTScore": 92.35,
+   "Idiom removed %": 36.53,
+   "Words": 15.89
+  }
+ ]
+}
