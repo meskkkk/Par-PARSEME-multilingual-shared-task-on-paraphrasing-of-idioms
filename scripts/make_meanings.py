@@ -33,6 +33,9 @@ def main():
     ap.add_argument("--model", default=None, help="override llm.model, e.g. Qwen/Qwen3-1.7B")
     ap.add_argument("--backend", default=None, help="override llm.backend")
     ap.add_argument("--seed", type=int, default=13)
+    ap.add_argument("--out-name", default=None,
+                    help="sub-folder of data/meanings/ (default: the split). Use e.g. dev_llmfinder "
+                         "for meanings made from the idiom finder's marks instead of the gold marks")
     args = ap.parse_args()
     cfg = load_config(args.config)
     set_seed(args.seed)
@@ -60,7 +63,7 @@ def main():
     empty = sum(1 for e in entries.values() if not e["meaning"])
     if not entries or empty > 0.5 * len(entries):
         raise SystemExit(f"ERROR: {empty}/{len(entries)} meanings are empty; check the LLM output.")
-    out_dir = repo_path(cfg["paths"]["meanings_dir"]) / args.split
+    out_dir = repo_path(cfg["paths"]["meanings_dir"]) / (args.out_name or args.split)
     save_meanings(entries, out_dir)
     json.dump({"model": llm.model_name, "idioms": args.idioms or "gold", "seed": args.seed},
               open(out_dir / "_info.json", "w"), indent=1)

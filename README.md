@@ -46,8 +46,8 @@ git commit) under `outputs/`. Times are for a 4-core CPU unless marked GPU.
 | `python scripts/run_dictswap.py --split dev --idiom-source lexicon` | 5 min | macro **7.18** (row 1, no-GPU idiom finder) |
 | `python scripts/build_rag_index.py` | 3 min (<1 min GPU) | index of 1,601 sentences in `outputs/rag_index/` |
 | `python scripts/find_idioms.py --split dev --method lexicon` | 10 s | exact 7.4 %, found nothing for 91.4 % |
-| `python scripts/find_idioms.py --split dev --method llm` | GPU, ~20 min | to be measured on Kaggle (member 1) |
-| `python scripts/make_meanings.py --split dev` | GPU, ~20 min | `data/meanings/dev/*.json` |
+| `python scripts/find_idioms.py --split dev --method llm` | GPU, ~6 min | exact 21.3 %, overlap 51.9 %, missing 3.9 % |
+| `python scripts/make_meanings.py --split dev` | GPU, ~10 min | `data/meanings/dev/*.json` |
 | `scripts/evaluate.sh <pred-dir> [dev\|trial]` | 5 min | scores any folder of `LANG/test.system.json` |
 | `python scripts/make_submission.py <pred-dir> --out submissions/x.zip` | 1 s | checks + zip for Codabench |
 
@@ -98,7 +98,24 @@ still crashes, keep the full error output and report it.
 | Organisers' baseline (gpt-oss-120b, on train) | 70.69 | 21.3 % |
 | Dict-swap, gold idiom position, no meanings file yet (idiom deleted) | 93.26 | 0 % |
 | Dict-swap, lexicon idiom finder (no GPU) | 7.18 | 92.1 % |
-| Dict-swap, gold idiom position + Qwen3-8B meanings (Kaggle run, 21 Nov) | **81.24** | 12.6 % |
+| Dict-swap, gold idiom position + Qwen3-8B meanings (Kaggle, 22 Nov) | **81.29** | 12.6 % |
+| Dict-swap, Qwen3-8B idiom finder + meanings made from gold marks (Kaggle, 22 Nov) | 41.11 | 54.3 % |
+
+**Idiom finder (Qwen3-8B-AWQ, 4 examples, up to 3 tries; Kaggle, 22 Nov):** returned a
+span that is really in the sentence for 1,539 of 1,601 dev sentences (96.1 %), but the
+span is exactly the gold idiom for only **21.3 %** and shares at least one word with it
+for 51.9 %. The finder is now the weakest link: with it, the baseline falls from 81.29
+to 41.11 because more than half of the rewrites keep the real idiom.
+
+The 41.11 row is not a clean "no gold" number yet: its meanings were written for the
+gold idiom, then pasted over the span the finder chose. For a fully realistic number,
+write meanings from the finder's marks into their own folder and use those:
+
+```bash
+python scripts/make_meanings.py --split dev --idioms outputs/idioms/dev_llm.json --out-name dev_llmfinder
+python scripts/run_dictswap.py --split dev --idiom-source file --idioms outputs/idioms/dev_llm.json \
+    --meaning-sources meanings,train --meanings-name dev_llmfinder
+```
 
 Without an LLM meanings file, the baseline falls back to deleting the idiom words.
 That scores far above the organisers' LLM because masked BERTScore only checks that

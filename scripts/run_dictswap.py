@@ -34,6 +34,8 @@ def main():
     ap.add_argument("--idiom-source", default=None, choices=["gold", "lexicon", "file"])
     ap.add_argument("--idioms", default=None, help="idiom finder output when --idiom-source file")
     ap.add_argument("--meaning-sources", default=None, help="comma list, e.g. meanings,train or train")
+    ap.add_argument("--meanings-name", default=None,
+                    help="sub-folder of data/meanings/ to read (default: the split)")
     ap.add_argument("--name", default=None, help="output sub-folder name (default: from the options)")
     args = ap.parse_args()
 
@@ -48,7 +50,7 @@ def main():
 
     meanings = {}
     if "meanings" in ds["meaning_sources"]:
-        mdir = repo_path(cfg["paths"]["meanings_dir"]) / args.split
+        mdir = repo_path(cfg["paths"]["meanings_dir"]) / (args.meanings_name or args.split)
         meanings = load_meanings(mdir) if mdir.exists() else {}
         print(f"Loaded {len(meanings)} LLM meanings from {mdir}")
         if not meanings and args.meaning_sources:
