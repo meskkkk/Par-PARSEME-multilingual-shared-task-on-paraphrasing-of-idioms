@@ -59,6 +59,9 @@ the French predictions were fixed. So the correct macro of their baseline on tra
 
 ## How dev scoring works
 
+In short: `--split dev` always covers **all 1,601 training sentences**, never just one
+fold, so seeing "1601" in a dev run is correct.
+
 There is no official dev set. `data/folds.json` splits the 1,601 training sentences
 into 5 folds. For fold *f*, a model may only use folds ≠ *f* (few-shot examples, RAG
 index, meaning prompts, fine-tuning). Every sentence thus gets one out-of-fold
@@ -69,6 +72,23 @@ All sentences with the same idiom share a fold, so a dev sentence never has its 
 idiom (or its gold rewrite) in the training part. This keeps dev honest but means the
 "same idiom seen in training" dictionary never fires on dev. On test it may.
 
+## Data as CSV files
+
+`notebooks/data_inspection.ipynb` (no GPU, ~1 minute) loads the data with the shared
+reader, prints statistics and writes `data/csv/`: `all_train.csv` (1,601 rows with
+their `fold`), `train.csv` (folds 1-4), `dev.csv` (fold 0), `trial.csv`, and `test.csv`
+once the test data is out. One row per sentence, with the sentence, the sentence with
+the idiom in `[[ ]]`, the idiom words and positions, idiom type and both gold rewrites.
+The CSVs are for looking at the data and for quick experiments; the scripts read the
+organisers' JSON files directly.
+
+## Kaggle T4 note
+
+vLLM's default attention for old GPUs (FlexAttention) crashed on Kaggle's T4s with
+"recompile_limit reached". `src/shared/llm.py` therefore selects xFormers attention on
+GPUs older than compute capability 8.0 (config `llm.attention_backend: auto`). If it
+still crashes, set the environment variable `VLLM_ATTENTION_BACKEND=TRITON_ATTN`.
+
 ## Dictionary-swap baseline: results and a warning about the metric
 
 | Variant (dev, 1,601 sentences) | Macro masked BERTScore | Idiom not removed |
@@ -76,6 +96,7 @@ idiom (or its gold rewrite) in the training part. This keeps dev honest but mean
 | Organisers' baseline (gpt-oss-120b, on train) | 70.69 | 21.3 % |
 | Dict-swap, gold idiom position, no meanings file yet (idiom deleted) | 93.26 | 0 % |
 | Dict-swap, lexicon idiom finder (no GPU) | 7.18 | 92.1 % |
+| Dict-swap, gold idiom position + Qwen3-8B meanings (Kaggle run, 21 Nov) | **81.24** | 12.6 % |
 
 Without an LLM meanings file, the baseline falls back to deleting the idiom words.
 That scores far above the organisers' LLM because masked BERTScore only checks that

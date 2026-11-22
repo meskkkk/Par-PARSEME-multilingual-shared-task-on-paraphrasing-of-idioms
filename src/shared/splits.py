@@ -30,6 +30,9 @@ def iter_jobs(cfg, split: str):
     train = load_train(cfg)
     data_dir = repo_path(cfg["paths"]["data_dir"])
     if split == "dev":
+        # "dev" = all training sentences, each predicted by a run that never
+        # saw its fold. So dev results always cover all 1,601 sentences.
+        print("dev split: 5 folds, every sentence predicted out-of-fold")
         folds = load_folds(repo_path(cfg["paths"]["folds"]))
         for f in range(cfg["n_folds"]):
             yield ([ex for ex in train if folds[ex.uid] != f],

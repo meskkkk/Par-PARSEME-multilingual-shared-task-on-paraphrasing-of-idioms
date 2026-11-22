@@ -24,9 +24,24 @@ class LLM:
         self.backend = backend
         self.max_new_tokens = max_new_tokens
         if backend == "vllm":
-            from vllm import LLM as VLLM
+            import os
 
             import torch
+
+            # Kaggle's T4 GPUs are too old for vLLM's default attention there
+            # (FlexAttention): it crashes after a few batches with
+            # "recompile_limit reached". xFormers attention works on T4, so we
+            # pick it for GPUs older than compute capability 8.0 (A100).
+            # Set VLLM_ATTENTION_BACKEND yourself to override.
+            attention = backend_kwargs.pop("attention_backend", "auto")
+            if attention == "auto":
+                old_gpu = torch.cuda.is_available() and torch.cuda.get_device_capability(0)[0] < 8
+                attention = "XFORMERS" if old_gpu else None
+            if attention and "VLLM_ATTENTION_BACKEND" not in os.environ:
+                os.environ["VLLM_ATTENTION_BACKEND"] = attention
+                print(f"vLLM attention backend: {attention}")
+
+            from vllm import LLM as VLLM
 
             self._engine = VLLM(
                 model=model,
@@ -46,7 +61,7 @@ class LLM:
             self._tokenizer.padding_side = "left"  # needed for batched generation
             torch_dtype = getattr(torch, dtype) if torch.cuda.is_available() else torch.float32
             self._model = AutoModelForCausalLM.from_pretrained(
-                model, torch_dtype=torch_dtype, device_map="auto" if torch.cuda.is_available() else None)
+                model, dtype=torch_dtype, device_map="auto" if torch.cuda.is_available() else None)
             self._model.eval()
             self._batch_size = backend_kwargs.pop("batch_size", 8)
         else:

@@ -13,6 +13,7 @@ seed is enough (the config's first seed is recorded).
 
 import argparse
 import json
+from pathlib import Path
 
 import _bootstrap  # noqa: F401
 
@@ -50,7 +51,17 @@ def main():
         mdir = repo_path(cfg["paths"]["meanings_dir"]) / args.split
         meanings = load_meanings(mdir) if mdir.exists() else {}
         print(f"Loaded {len(meanings)} LLM meanings from {mdir}")
-    file_idioms = json.load(open(args.idioms, encoding="utf-8")) if args.idioms else {}
+        if not meanings and args.meaning_sources:
+            # Meanings were asked for explicitly: running without them would
+            # silently give the "delete the idiom" baseline instead.
+            raise SystemExit(f"ERROR: no meanings in {mdir}. Run scripts/make_meanings.py --split {args.split} first.")
+
+    file_idioms = {}
+    if ds["idiom_source"] == "file":
+        if not args.idioms or not Path(args.idioms).is_file():
+            raise SystemExit(f"ERROR: idiom file {args.idioms!r} not found. "
+                             f"Run scripts/find_idioms.py --split {args.split} --method llm first.")
+        file_idioms = json.load(open(args.idioms, encoding="utf-8"))
 
     all_targets, predictions, counts = [], {}, {}
     for train, target, fold in iter_jobs(cfg, args.split):

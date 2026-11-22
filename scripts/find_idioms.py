@@ -53,6 +53,10 @@ def main():
     out.parent.mkdir(parents=True, exist_ok=True)
     json.dump(found, open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(f"Wrote {out}")
+    n_missing = sum(1 for v in found.values() if not v)
+    print(f"Idiom found for {len(found) - n_missing}/{len(found)} sentences")
+    if method == "llm" and n_missing > 0.5 * len(found):
+        raise SystemExit("ERROR: the LLM finder located fewer than half of the idioms; check the LLM output.")
     if has_gold(args.split):
         report = evaluate_finder(targets, found)
         json.dump(report, open(out.with_name(out.stem + "_accuracy.json"), "w"), indent=1)
