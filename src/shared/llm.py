@@ -28,15 +28,17 @@ class LLM:
 
             import torch
 
-            # Kaggle's T4 GPUs are too old for vLLM's default attention there
-            # (FlexAttention): it crashes after a few batches with
-            # "recompile_limit reached". xFormers attention works on T4, so we
-            # pick it for GPUs older than compute capability 8.0 (A100).
-            # Set VLLM_ATTENTION_BACKEND yourself to override.
+            # Kaggle's T4 GPUs (compute capability 7.5) break two vLLM 0.11
+            # attention backends: the default FlexAttention crashes after a few
+            # batches ("recompile_limit reached"), and xFormers has no paged
+            # attention kernel for T4. The Triton backend has no GPU-version
+            # check and its kernels compile for T4, so we pick it for GPUs
+            # older than compute capability 8.0. Set VLLM_ATTENTION_BACKEND
+            # yourself to override.
             attention = backend_kwargs.pop("attention_backend", "auto")
             if attention == "auto":
                 old_gpu = torch.cuda.is_available() and torch.cuda.get_device_capability(0)[0] < 8
-                attention = "XFORMERS" if old_gpu else None
+                attention = "TRITON_ATTN" if old_gpu else None
             if attention and "VLLM_ATTENTION_BACKEND" not in os.environ:
                 os.environ["VLLM_ATTENTION_BACKEND"] = attention
                 print(f"vLLM attention backend: {attention}")

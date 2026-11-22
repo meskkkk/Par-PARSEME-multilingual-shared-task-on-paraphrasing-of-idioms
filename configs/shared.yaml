@@ -26,7 +26,7 @@ llm:
   max_new_tokens: 128
   temperature: 0.0         # greedy for the idiom finder
   dtype: float16           # T4 has no bfloat16
-  attention_backend: auto  # auto = XFORMERS on T4/P100 (the default FlexAttention crashes there)
+  attention_backend: auto  # auto = TRITON_ATTN on T4 (FlexAttention and XFORMERS crash there)
 
 idiom_finder:
   method: llm              # llm | lexicon

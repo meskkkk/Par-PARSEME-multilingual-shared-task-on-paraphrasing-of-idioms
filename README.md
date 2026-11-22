@@ -84,10 +84,12 @@ organisers' JSON files directly.
 
 ## Kaggle T4 note
 
-vLLM's default attention for old GPUs (FlexAttention) crashed on Kaggle's T4s with
-"recompile_limit reached". `src/shared/llm.py` therefore selects xFormers attention on
+Two vLLM attention backends crashed on Kaggle's T4s: the default for old GPUs
+(FlexAttention, "recompile_limit reached") and xFormers ("No operator found for
+memory_efficient_attention_forward"). `src/shared/llm.py` therefore selects the Triton
+backend (`TRITON_ATTN`) on
 GPUs older than compute capability 8.0 (config `llm.attention_backend: auto`). If it
-still crashes, set the environment variable `VLLM_ATTENTION_BACKEND=TRITON_ATTN`.
+still crashes, keep the full error output and report it.
 
 ## Dictionary-swap baseline: results and a warning about the metric
 
