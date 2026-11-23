@@ -1,58 +1,58 @@
 [
- {
-  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w02009002",
-  "prediction": "Skärpan och närvaron av den revolution som ägde rum på landsbygden oroade hovet och nationalförsamlingen i Versailles."
- },
- {
-  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01089007",
-  "prediction": "Naturligtvis erbjuder kontorslandskapet många möjligheter men försörjer föga i matväg."
- },
- {
-  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01091019",
-  "prediction": "RSPB:s ståndpunkt har även gjort att det kommit i konflikt med flera ledande naturvårdare, från namninsamlingens författare Mark Avery till TV-presentatören Chris Packham."
- },
- {
-  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01095009",
-  "prediction": "Jag tar inte lätt på att kalla det för en bästa."
- },
- {
-  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01131007",
-  "prediction": "Mer än 5,7 miljoner floridabor har redan gått och röstat efter cirka två veckor med personligt förtidsval."
- },
- {
-  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01148035",
-  "prediction": "Inte alla förändringar i regionen har varit framgångsrika."
- },
- {
-  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w01006081",
-  "prediction": "2007 var den mest framgångsrika filmen El Greco, regisserad av Yannis Smaragdis."
- },
- {
-  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w01109120",
-  "prediction": "Vid ett tillfälle antyds det att han är en agent under falsk identitet, vars mål är Homer."
- },
- {
-  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w01112060",
-  "prediction": "Disney fick också reda på att Universal ägde upphovsrätten till Oswald."
- },
- {
-  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w01130099",
-  "prediction": "Rafferty släppte två album till under 1990-talet i vad musikern Tom Robinson senare beskrev som ”en ordentlig återkomst till högform”."
- },
- {
-  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n02027019",
-  "prediction": "Ryssland meddelade ett inställande av kontraktet i början av oktober."
- },
- {
-  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n02033113",
-  "prediction": "Tidningen ”Die ZEIT” förhörde sig först med fastighetsföretaget om dess tveksamma kassaflöden och hotet om insolvens i juli."
- },
- {
-  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n04005003",
-  "prediction": "De som har åldern inne kommer att erbjudas 500 euro av staten, att spendera före 31 december 2017."
- },
- {
-  "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w02007032",
-  "prediction": "I april 2012 tillkännagav den turkiske presidenten Erdogan sina regeringsplaner på att bygga en kanal genom Bosporen parallellt med den."
- }
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w02009002",
+    "prediction": "Skärpan och närvaron av den revolution som ägde rum på landsbygden oroade hovet och nationalförsamlingen i Versailles."
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01089007",
+    "prediction": "Naturligtvis erbjuder kontorslandskapet många möjligheter men försörjer föga i matväg."
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01091019",
+    "prediction": "RSPB:s ståndpunkt har även gjort att det kommit i konflikt med flera ledande naturvårdare, från namninsamlingens författare Mark Avery till TV-presentatören Chris Packham."
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01095009",
+    "prediction": "Jag tar inte lätt på att kalla det för en bästa."
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01131007",
+    "prediction": "Mer än 5,7 miljoner floridabor har redan gått och röstat efter cirka två veckor med personligt förtidsval."
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n01148035",
+    "prediction": "Inte alla förändringar i regionen har varit framgångsrika."
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w01006081",
+    "prediction": "2007 var den mest framgångsrika filmen El Greco, regisserad av Yannis Smaragdis."
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w01109120",
+    "prediction": "Vid ett tillfälle antyds det att han är en agent under falsk identitet, vars mål är Homer."
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w01112060",
+    "prediction": "Disney fick också reda på att Universal ägde upphovsrätten till Oswald."
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w01130099",
+    "prediction": "Rafferty släppte två album till under 1990-talet i vad musikern Tom Robinson senare beskrev som ”en ordentlig återkomst till högform”."
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n02027019",
+    "prediction": "Ryssland meddelade ett inställande av kontraktet i början av oktober."
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n02033113",
+    "prediction": "Tidningen ”Die ZEIT” förhörde sig först med fastighetsföretaget om dess tveksamma kassaflöden och hotet om insolvens i juli."
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu n04005003",
+    "prediction": "De som har åldern inne kommer att erbjudas 500 euro av staten, att spendera före 31 december 2017."
+  },
+  {
+    "source_sent_id": "http://hdl.handle.net/11234/1-5901 UD_Swedish-PUD/sv_pud-ud-test.conllu w02007032",
+    "prediction": "I april 2012 tillkännagav den turkiske presidenten Erdogan sina regeringsplaner på att bygga en kanal genom Bosporen parallellt med den."
+  }
 ]
